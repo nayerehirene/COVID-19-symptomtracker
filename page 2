@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>COVID-19 Symptom Tracker</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/style.css" />
+
+    <!-- import the webpage's javascript file -->
+    <script src="/script.js" defer></script>
+  </head>
+  <body>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="tracker.html">Symptom Tracker</a></li>
+      <li><a href="covid.html"> COVID-19 Info</a></li>
+    </ul>
+    <h1>
+      COVID-19 General Info
+    </h1>
+
+    <h2>
+      For accurate information and analytics, click on the following links to
+      our sources.
+      <hr />
+      <br />
+    </h2>
+    <a href="https://ncov2019.live/"> Live Tracker </a><br /><br />
+    <a href="https://cov19.cc/"> Global Tracker </a>
+    <h4>
+      Use these websites for the most up-to-date global, national, and statewide
+      analytical COVID-19 statistics, use this webstie created by
+    </h4>
+    <br />
+    <hr />
+
+    <a href="https://www.coronavirus.gov/"> Official U.S. Website</a>
+
+    <br /><br />
+
+    <a href="https://www.cdc.gov/coronavirus/2019-nCoV/index.html">
+      Official CDC Website</a
+    >
+
+    <br /><br />
+
+    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019">
+      Official WHO Website</a
+    >
+
+    <br /><br />
+    <h4>
+      Use these websites for the most accurate information from trusted
+      organizations on how to protect yourself and others.
+    </h4>
+    <br />
+    <hr />
+    <a href="https://www.bbc.com/news"> BBC News</a> <br /><br />
+    <a href="https://www.msnbc.com/"> MSNBC News</a> <br /><br />
+    <a href="https://www.nbcnews.com/"> 24/7 COVID-19 News Tracker</a>
+
+    <h4>
+      Keep up wide national (U.S.) and global news using these links.
+    </h4>
+    <br /><br />
+  </body>
+</html>
